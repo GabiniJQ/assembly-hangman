@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #282726;
+  color: #f9f4da;
+  font-family: 'Hanken Grotesk', 'sans-serif';
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  padding: 80px;
+}
