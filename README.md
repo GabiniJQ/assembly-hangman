@@ -26,6 +26,9 @@ Intenta adivinar la palabra secreta en menos de 8 intentos. Cada lenguage antes 
 - react-confetti
 - CSS (TailwindCSS)
 
+![Game screenshot](https://ibb.co/hMgJTC2) 
+
+
 ENG
 
 # Assembly: Endgame
