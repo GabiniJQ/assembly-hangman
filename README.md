@@ -26,7 +26,7 @@ Intenta adivinar la palabra secreta en menos de 8 intentos. Cada lenguage antes 
 - react-confetti
 - CSS (TailwindCSS)
 
-![Game screenshot](https://ibb.co/hMgJTC2) 
+![Game screenshot](https://i.ibb.co/GJd4rFC/image.png) 
 
 
 ENG
